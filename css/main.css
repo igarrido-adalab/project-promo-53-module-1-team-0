@@ -4,6 +4,7 @@
   padding: 0;
 }
 
+
 /* Header */
 
 .header {}
@@ -24,3 +25,8 @@
 }
 
 /* FIN Header */
+
+.footer {
+  background-color: #4a99d3;
+  color: white;
+}
