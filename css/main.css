@@ -3,3 +3,24 @@
   margin: 0;
   padding: 0;
 }
+
+/* Header */
+
+.header {}
+.title {}
+
+.store_img {
+  width: 180px;
+  height: 60px;
+  border-radius: 5px;
+}
+
+.store_btn {
+  border: solid 3px black;
+  width: 180px;
+  height: 60px;
+  border-radius: 5px;
+  background-image: url('../images/apple_store.png');
+}
+
+/* FIN Header */
