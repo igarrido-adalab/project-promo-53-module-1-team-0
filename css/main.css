@@ -4,11 +4,7 @@
   padding: 0;
 }
 
-
 /* Header */
-
-.header {}
-.title {}
 
 .store_img {
   width: 180px;
@@ -21,7 +17,7 @@
   width: 180px;
   height: 60px;
   border-radius: 5px;
-  background-image: url('../images/apple_store.png');
+  background-image: url("../images/apple_store.png");
 }
 
 /* FIN Header */
